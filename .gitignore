@@ -1,0 +1,11 @@
+node_modules/
+bower_components/
+.build/
+.local/
+yarn.lock
+.DS_Store
+
+dist/*.js
+dist/*.css
+dist/modules/*
+scripts/.env
